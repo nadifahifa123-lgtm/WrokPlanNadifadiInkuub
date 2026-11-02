@@ -1,0 +1,36 @@
+// SUMBER DATA PUBLIK. Perbarui melalui tombol "Unduh data.js" pada dashboard,
+// lalu unggah hasilnya untuk mengganti file ini di GitHub.
+window.WORKPLAN_DATA = {
+  owner: 'Nadifa', period: '2–7 November 2026', updated: '2026-11-02',
+  tasks: [
+    {id:1,date:'2026-11-02',category:'Bisnis & Operasional',priority:'P1',title:'Koordinasi PIC PT SBI, SGI, SME, PSI dan rapat Pak Widya pukul 13.00',output:'Konfirmasi PIC dan agenda rapat',status:'Belum dimulai',note:'',proof:''},
+    {id:2,date:'2026-11-02',category:'Bisnis & Operasional',priority:'P1',title:'Minta laporan kegiatan unit usaha dan susun template pelaporan',output:'Draft laporan dan kebutuhan indikator beban kerja',status:'Belum dimulai',note:'',proof:''},
+    {id:3,date:'2026-11-02',category:'Inkubasi Ide',priority:'P2',title:'Inventarisasi tautan ide bisnis dari Pak Fredy',output:'Database referensi ide',status:'Belum dimulai',note:'',proof:''},
+    {id:4,date:'2026-11-02',category:'Disertasi',priority:'P1',title:'Inventaris artikel Google Drive dan format matriks Prof. Wir',output:'Daftar artikel dan template matriks',status:'Belum dimulai',note:'',proof:''},
+    {id:5,date:'2026-11-02',category:'Hotways AI',priority:'P1',title:'Koordinasi Ko Brian: footage, tools AI, dan konsep promosi',output:'Status kesiapan produksi',status:'Belum dimulai',note:'',proof:''},
+    {id:6,date:'2026-11-02',category:'Pemasaran',priority:'P3',title:'Susun prospek awal klien, ide konten Inkuhub, dan kebutuhan CNG',output:'Daftar prospek dan ide konten',status:'Belum dimulai',note:'',proof:''},
+    {id:7,date:'2026-11-03',category:'Bisnis & Operasional',priority:'P1',title:'Tindak lanjut laporan 4 unit usaha dan indikator beban kerja',output:'Rekap laporan dan template terbarui',status:'Belum dimulai',note:'',proof:''},
+    {id:8,date:'2026-11-03',category:'Bisnis & Operasional',priority:'P2',title:'Daftar calon klien konsultasi, pelatihan, sertifikasi dan agenda Pertamina',output:'Pipeline klien dan draft agenda',status:'Belum dimulai',note:'',proof:''},
+    {id:9,date:'2026-11-03',category:'Inkubasi Ide',priority:'P2',title:'Identifikasi produk, layanan dan model bisnis dari referensi Pak Fredy',output:'Database ide teridentifikasi',status:'Belum dimulai',note:'',proof:''},
+    {id:10,date:'2026-11-03',category:'Disertasi',priority:'P1',title:'Mulai ekstraksi variabel, teori, metode, sampel, temuan, sumber',output:'Matriks literatur terisi sebagian',status:'Belum dimulai',note:'',proof:''},
+    {id:11,date:'2026-11-03',category:'Hotways AI',priority:'P1',title:'Susun script, storyboard dan prompt video AI Hotways',output:'Draft konsep video',status:'Belum dimulai',note:'',proof:''},
+    {id:12,date:'2026-11-04',category:'Bisnis & Operasional',priority:'P1',title:'Analisis laporan unit usaha, rekomendasi dan follow-up calon klien',output:'Draft analisis dan status prospek',status:'Belum dimulai',note:'',proof:''},
+    {id:13,date:'2026-11-04',category:'Inkubasi Ide',priority:'P2',title:'Analisis target pasar, nilai tambah dan kebutuhan modal ide bisnis',output:'Draft analisis kelayakan awal',status:'Belum dimulai',note:'',proof:''},
+    {id:14,date:'2026-11-04',category:'Disertasi',priority:'P1',title:'Lanjutkan ekstraksi dan periksa duplikasi DOI, judul, penulis',output:'Matriks lanjutan dan log duplikat',status:'Belum dimulai',note:'',proof:''},
+    {id:15,date:'2026-11-04',category:'Hotways AI',priority:'P1',title:'Siapkan footage dan uji alur AI jika tools tersedia',output:'Bahan siap produksi atau sampel',status:'Belum dimulai',note:'',proof:''},
+    {id:16,date:'2026-11-04',category:'Pemasaran',priority:'P3',title:'Draft konten IG/TikTok Inkuhub dan profil akun CNG',output:'Paket draft konten dan opsi nomor kontak',status:'Belum dimulai',note:'',proof:''},
+    {id:17,date:'2026-11-05',category:'Bisnis & Operasional',priority:'P1',title:'Validasi laporan dan indikator beban kerja unit usaha',output:'Laporan terverifikasi sesuai data tersedia',status:'Belum dimulai',note:'',proof:''},
+    {id:18,date:'2026-11-05',category:'Inkubasi Ide',priority:'P2',title:'Kurasi ide bisnis dan buat Idea Profile untuk dibahas dengan Pak Fredy',output:'Shortlist dan profil ide',status:'Belum dimulai',note:'',proof:''},
+    {id:19,date:'2026-11-05',category:'Disertasi',priority:'P1',title:'Verifikasi matriks artikel, sumber, akses dan informasi belum dilaporkan',output:'Matriks terverifikasi dan rekap keterbatasan',status:'Belum dimulai',note:'Konfirmasi apakah tenggat AFL-2 pukul 17.00 berlaku.',proof:''},
+    {id:20,date:'2026-11-05',category:'Hotways AI',priority:'P1',title:'Bangun prototipe video Hotways bersama Ko Brian jika tools siap',output:'Prototipe atau catatan kendala produksi',status:'Belum dimulai',note:'Jangan membeli tools tanpa persetujuan.',proof:''},
+    {id:21,date:'2026-11-05',category:'Pemasaran',priority:'P3',title:'Kalender konten CNG/Inkuhub dan penjajakan Sinex serta studio mini',output:'Kalender konten dan catatan peluang',status:'Belum dimulai',note:'',proof:''},
+    {id:22,date:'2026-11-06',category:'Bisnis & Operasional',priority:'P1',title:'Finalisasi rekap unit usaha, laporan bisnis dan pipeline klien',output:'Laporan bisnis mingguan',status:'Belum dimulai',note:'',proof:''},
+    {id:23,date:'2026-11-06',category:'Inkubasi Ide',priority:'P2',title:'Rangkum hasil kurasi dan rekomendasi inkubasi kepada Pak Fredy',output:'Laporan ide dan shortlist',status:'Belum dimulai',note:'',proof:''},
+    {id:24,date:'2026-11-06',category:'Disertasi',priority:'P1',title:'Rekap jumlah artikel ditemukan, diekstraksi, duplikat, gagal diakses',output:'Laporan ekstraksi Tahap 1',status:'Belum dimulai',note:'',proof:''},
+    {id:25,date:'2026-11-06',category:'Hotways AI',priority:'P1',title:'Evaluasi prototipe Hotways dan catat revisi',output:'Hasil review dan tindak lanjut',status:'Belum dimulai',note:'',proof:''},
+    {id:26,date:'2026-11-06',category:'Pemasaran',priority:'P3',title:'Review status konten Inkuhub, CNG, Sinex dan studio mini',output:'Rencana pemasaran berikutnya',status:'Belum dimulai',note:'',proof:''},
+    {id:27,date:'2026-11-06',category:'Pelaporan',priority:'P1',title:'Sampaikan laporan konsolidasi kepada Pak Widya dan Pak Fredy',output:'Laporan mingguan dan daftar keputusan',status:'Belum dimulai',note:'',proof:''},
+    {id:28,date:'2026-11-07',category:'Pelaporan',priority:'P2',title:'Rekap final progres 2–7 November dan susun prioritas minggu berikutnya',output:'Ringkasan eksekutif dan workplan lanjutan',status:'Belum dimulai',note:'Sabtu: review tambahan, menyesuaikan ketersediaan kerja.',proof:''},
+    {id:29,date:'2026-11-07',category:'Pelaporan',priority:'P2',title:'Periksa ulang tautan bukti pekerjaan dan pembaruan dashboard untuk pimpinan',output:'Dashboard siap dipantau',status:'Belum dimulai',note:'',proof:''}
+  ]
+};
